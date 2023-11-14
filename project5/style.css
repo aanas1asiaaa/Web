@@ -42,7 +42,7 @@
           }  
 }
 
-@media (max-width: 992px) and (min-width:769px) {
+@media (min-width:769px) and (max-width: 992px) {
     .col-tb-1, .col-tb-2, .col-tb-3, .col-tb-4, .col-tb-5, .col-tb-6, .col-tb-7, .col-tb-8,
     .col-tb-9, .col-tb-10, .col-tb-11, .col-tb-12 
     {
@@ -129,5 +129,5 @@
           .col-mb-12 {
             width: 100%;
           }
-
+          
 }
