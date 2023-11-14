@@ -2,8 +2,8 @@
   box-sizing: border-box;
 }
 
-div {
-  padding: 0 15px;
+.container {
+  margin: 8%;
   background-color: #CC0066;
 }
 
