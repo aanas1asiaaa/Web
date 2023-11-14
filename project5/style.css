@@ -4,11 +4,25 @@
 
 div {
   padding: 0 15px;
+  background-color: #CC0066;
 }
 
 span{
   float: right;
   padding: 5px 10px;
+  margin-bottom: 20px;
+}
+
+.span-1{
+  background-color: #3333FF;
+}
+
+.span-2{
+  background-color: #99004C;
+}
+
+.span-3{
+  background-color: #FFFF00;
 }
 
 @media (max-width:768px) {
