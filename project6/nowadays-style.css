@@ -1,1 +1,23 @@
-
+ul li:nth-child(odd){
+    background-color: grey;
+  }
+  ul li:nth-child(even){
+    background-color: white;
+  }
+  ul li:nth-child(3), ul li:nth-child(5){
+    cursor: pointer;
+  }
+  ul li:nth-child(4){
+    background-color: rgb(133, 125, 2);
+  }
+  h1{
+    text-align: center;
+    font-size: 22px;
+  }
+  .back{
+    font-style: italic;
+  }
+  h2{
+    text-align: center;
+  }
+  
