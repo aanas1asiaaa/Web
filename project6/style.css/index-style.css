@@ -1,0 +1,27 @@
+.href-decoration1 {
+    color:#7D699D;
+   }
+   
+     .href-decoration2 {
+       color:#C51D8C;
+     }
+   
+     .href-decoration3{
+       color: #3B76CF;
+     }
+  
+     .href-decoration4 {
+       color:#D8B63C;
+     }
+     .href-decoration5
+    {
+     color: red;
+    }
+    h1{ 
+     text-align: center;
+     font-size: 24px;
+
+    }
+    p{
+     font-size: 120%;
+    }
