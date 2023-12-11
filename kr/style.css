@@ -11,7 +11,9 @@ background-color: #578922;
 position: relative;
 color:#6FE28F ;
 font-family: "Playfair Display";
-text-align: center;
+}
+table{
+    text-align: center;
 }
 .block3{
 background-color:#6FE28F ;
