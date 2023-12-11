@@ -24,6 +24,7 @@ color:#4C9400 ;
     bottom: 0;
     left: 0;
     width: min-content;
+    color:#4C9400;
 }
 .h4-block2{
     background-color: #6FE28F;
@@ -31,6 +32,7 @@ color:#4C9400 ;
     bottom: 0;
     left: 0;
     width: min-content;
+    color:#578922;
 }
 .h4-block3{
     background-color: #578922;
@@ -38,6 +40,7 @@ color:#4C9400 ;
     bottom: 0;
     left: 0;
     width: min-content;
+    color:#6FE28F;
 }
 .h4-block4{
     background-color: #4C9400;
@@ -45,4 +48,8 @@ color:#4C9400 ;
     bottom: 0;
     left: 0;
     width: min-content;
+    color:#365948;
+}
+.name{
+    text-align: center;
 }
