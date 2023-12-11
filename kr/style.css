@@ -12,6 +12,9 @@ position: relative;
 color:#6FE28F ;
 font-family: "Playfair Display";
 }
+ol{
+    text-align: center;
+}
 table{
     text-align: center;
 }
