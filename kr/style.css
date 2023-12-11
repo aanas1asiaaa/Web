@@ -23,32 +23,36 @@ color:#4C9400 ;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: min-content;
+    width: 120px;
     color:#4C9400;
+    font-size: 120%;
 }
 .h4-block2{
     background-color: #6FE28F;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: min-content;
+    width: 120px;
     color:#578922;
+    font-size: 120%;
 }
 .h4-block3{
     background-color: #578922;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: min-content;
+    width: 120px;
     color:#6FE28F;
+    font-size: 120%;
 }
 .h4-block4{
     background-color: #4C9400;
     position: absolute;
     bottom: 0;
     left: 0;
-    width: min-content;
+    width: 120px;
     color:#365948;
+    font-size: 120%;
 }
 .name{
     text-align: center;
