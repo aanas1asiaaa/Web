@@ -1,22 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia&family=Playfair+Display:ital@1&family=Whisper&display=swap');
 .block1{
 background-color:#4C9400;
 position: relative;
 color:#365948;
+font-family: "Playfair Display";
 }
 .block2{
 background-color: #578922;
 position: relative;
 color:#6FE28F ;
+font-family: "Playfair Display";
 }
 .block3{
 background-color:#6FE28F ;
 position: relative;
 color:#578922 ;
+font-family: "Playfair Display";
 }
 .block4{
 background-color: #365948;
 position: relative;
 color:#4C9400 ;
+font-family: "Playfair Display";
 }
 .h4-block1{
     background-color: #365948;
@@ -26,6 +31,7 @@ color:#4C9400 ;
     width: 120px;
     color:#4C9400;
     font-size: 120%;
+    font-family:Kalnia ;
 }
 .h4-block2{
     background-color: #6FE28F;
@@ -35,6 +41,7 @@ color:#4C9400 ;
     width: 120px;
     color:#578922;
     font-size: 120%;
+    font-family:Kalnia ;
 }
 .h4-block3{
     background-color: #578922;
@@ -44,6 +51,7 @@ color:#4C9400 ;
     width: 120px;
     color:#6FE28F;
     font-size: 120%;
+    font-family:Kalnia ;
 }
 .h4-block4{
     background-color: #4C9400;
@@ -53,7 +61,9 @@ color:#4C9400 ;
     width: 120px;
     color:#365948;
     font-size: 120%;
+    font-family:Kalnia ;
 }
 .name{
     text-align: center;
+    font-family:Whisper;
 }
