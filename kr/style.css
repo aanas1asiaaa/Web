@@ -4,24 +4,28 @@ background-color:#4C9400;
 position: relative;
 color:#365948;
 font-family: "Playfair Display";
+text-align: center;
 }
 .block2{
 background-color: #578922;
 position: relative;
 color:#6FE28F ;
 font-family: "Playfair Display";
+text-align: center;
 }
 .block3{
 background-color:#6FE28F ;
 position: relative;
 color:#578922 ;
 font-family: "Playfair Display";
+text-align: center;
 }
 .block4{
 background-color: #365948;
 position: relative;
 color:#4C9400 ;
 font-family: "Playfair Display";
+text-align: center;
 }
 .h4-block1{
     background-color: #365948;
