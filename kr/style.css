@@ -1,24 +1,40 @@
 .block1{
 background-color:#4C9400;
+position: relative;
 }
 .block2{
 background-color: #578922;
+position: relative;
 }
 .block3{
 background-color:#6FE28F ;
+position: relative;
 }
 .block4{
 background-color: #365948;
+position: relative;
 }
 .h4-block1{
     background-color: #365948;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 .h4-block2{
     background-color: #6FE28F;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 .h4-block3{
     background-color: #578922;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
 .h4-block4{
     background-color: #4C9400;
+    position: absolute;
+    bottom: 0;
+    left: 0;
 }
